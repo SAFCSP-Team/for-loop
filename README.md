@@ -8,7 +8,7 @@ In this project, our main goal is to understand how to use a for loop in C++.
 
 Develop a program that takes input from the user and prints all the numbers before it, down to zero. 
 
--For example, if the user enters 5, the program will output:
+- For example, if the user enters 5, the program will output:
 ```
 Enter a number: 5
 Counting down from 5 to 0:
