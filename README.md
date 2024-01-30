@@ -27,7 +27,7 @@ Counting down from 5 to 0:
 #include <iostream>
 
 int main() {
-    /* Add your code here*/
+    /*Add your code here*/
     return 0;
 }
 
